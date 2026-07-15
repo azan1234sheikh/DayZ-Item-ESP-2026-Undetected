@@ -1,0 +1,5 @@
+pywin32
+opencv-python
+requests
+numpy
+Pillow
